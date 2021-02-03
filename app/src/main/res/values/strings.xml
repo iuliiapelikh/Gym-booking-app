@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">GymBookingApp</string>
+
+    <string-array name="gym_names">
+        <item>--Select the gym--</item>
+        <item>Hone Fitness</item>
+        <item>GoodLife Fitness</item>
+        <item>Equinox</item>
+    </string-array>
+
+    <string-array name="hone_locations">
+        <item>--Select the location--</item>
+        <item>Queen &amp; Bathurst</item>
+        <item>Queen &amp; Spadina</item>
+        <item>Yonge &amp; Isabella</item>
+        <item>Bloor &amp; Christie</item>
+        <item>Queen &amp; Carlaw</item>
+        <item>Pape &amp; Danforth</item>
+        <item>St Clair &amp; Bathurst</item>
+    </string-array>
+
+    <string-array name="goodlife_locations">
+        <item>--Select the location--</item>
+        <item>Richmond &amp; Bathurst</item>
+        <item>Richmond &amp; John</item>
+        <item>Wellington &amp; York</item>
+        <item>McCaul &amp; Queen</item>
+        <item>College &amp; Euclid</item>
+        <item>Boor &amp; Park</item>
+        <item>Bloor &amp; Bay</item>
+    </string-array>
+
+    <string-array name="equinox_locations">
+        <item>--Select the location--</item>
+        <item>Bay Street</item>
+        <item>Yorkville</item>
+    </string-array>
+
+    <string-array name="none_chosen">
+        <item>--Select the location--</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>--Select the time--</item>
+        <item>9 a.m.</item>
+        <item>10 a.m.</item>
+        <item>11 a.m.</item>
+        <item>12 p.m.</item>
+        <item>1 p.m.</item>
+        <item>2 p.m.</item>
+        <item>3 p.m.</item>
+        <item>4 p.m.</item>
+        <item>5 p.m.</item>
+        <item>6 p.m.</item>
+    </string-array>
+
+    <string name="gym_names">Choose the gym</string>
+    <string name="gym_locations">Choose the location</string>
+    <string name="button1">Choose date and time</string>
+    <string name="date">Choose the date</string>
+    <string name="time">Choose the time</string>
+    <string name="button2">Book</string>
+</resources>
